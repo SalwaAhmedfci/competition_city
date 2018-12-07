@@ -5,7 +5,7 @@ import array
 # function to find if
 # given point lies inside
 # a given rectangle or not.
-import csv
+
 
 
 
